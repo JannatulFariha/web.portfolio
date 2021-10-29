@@ -2,8 +2,19 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 h1{
-    font-size: 50px;
+    font-size: 45px;
 }
+
 .name-highlight{
-    color:blueviolet;
+    color:rgba(2, 91, 255, 0.884);
+}
+
+.half-width{
+width: 35%;
+float: left;
+margin: 5%;
+padding: 2%;
+}
+.half-width img{
+    width: 100%;
 }
